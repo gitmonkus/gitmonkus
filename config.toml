@@ -27,7 +27,7 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
-[params.social]
+[[params.social]]
   name = "Linkedin"
   url = "https://www.linkedin.com/in/stevenpalfreyman/"
 
@@ -55,7 +55,7 @@ paginate     = 10
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
-[menu.main]
-   identifier = "blog"
-   name       = "Blog"
-   url        = "/posts"
+[[menu.main]]
+  identifier = "blog"
+  name       = "Blog"
+  url        = "/posts"
