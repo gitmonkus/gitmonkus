@@ -4,3 +4,6 @@
 [submodule "themes/hugo-theme-luna"]
 	path = themes/hugo-theme-luna
 	url = https://github.com/Ice-Hazymoon/hugo-theme-luna
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
