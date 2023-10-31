@@ -1,3 +1,6 @@
 [submodule "themes/virgo"]
 	path = themes/virgo
 	url = https://github.com/loveminimal/hugo-theme-virgo.git
+[submodule "themes/hugo-theme-luna"]
+	path = themes/hugo-theme-luna
+	url = https://github.com/Ice-Hazymoon/hugo-theme-luna
