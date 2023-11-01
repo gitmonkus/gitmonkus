@@ -13,3 +13,6 @@
 [submodule "themes/themes/hugo-luna"]
 	path = themes/themes/hugo-luna
 	url = https://github.com/Ice-Hazymoon/hugo-theme-luna
+[submodule "themes/risotto"]
+	path = themes/risotto
+	url = https://github.com/joeroe/risotto.git
