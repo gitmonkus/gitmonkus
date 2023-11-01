@@ -54,6 +54,7 @@ url = "https://www.linkedin.com/in/stevenpalfreyman/"
     url = "/about/"
     weight = 10
 
+  [[menu.main]] 
     identifier = "posts"
     name = "Posts"
     url = "/content/posts/"
